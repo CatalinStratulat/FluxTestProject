@@ -3,12 +3,12 @@ entries:
   server-print:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-04-05T12:43:05.436723799+01:00"
+    created: "2023-04-05T12:49:58.507829689+01:00"
     description: A Helm chart for Kubernetes
-    digest: b575ebf41ece5457fc957c135d7985cbb944bbde8f40fbab22971f2cee0fc78f
+    digest: 26e96f03b0483adad93b020bc4b79002cacd305f309e45d4e4dd486055b7e44f
     name: server-print
     type: application
     urls:
     - https://catalinstratulat.github.io/FluxTestProject/server-print-0.1.0.tgz
     version: 0.1.0
-generated: "2023-04-05T12:43:05.436363644+01:00"
+generated: "2023-04-05T12:49:58.507444417+01:00"
