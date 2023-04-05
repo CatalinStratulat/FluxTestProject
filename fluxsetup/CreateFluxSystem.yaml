@@ -49,10 +49,10 @@ spec:
   url: oci://customerstagingregistry.azurecr.io/helm
 ---
 apiVersion: v1
+kind: Secret
 data:
   password: cWhIUUhmNWFCUkNUdHdNMWVTVjRaSkYvUW1VVTMyUlE=
   username: Y3VzdG9tZXJzdGFnaW5ncmVnaXN0cnk=
-kind: Secret
 metadata:
   creationTimestamp: "2023-03-15T16:34:22Z"
   name: customerstagingreg
